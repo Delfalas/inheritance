@@ -30,6 +30,6 @@ public abstract class TaxPayer {
 		this.anualIncome = anualIncome;
 	}
 	
-	public abstract double tax(); //MÉTODO ABSTRATO PARA CALCULAR ÁREA
+	public abstract double tax(); //MÉTODO ABSTRATO PARA CALCULAR IMPOSTO PAGO
 		
 }
